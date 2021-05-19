@@ -1,0 +1,56 @@
+body{
+  background:#feca57;
+}
+
+.display-4{
+  background-color: #0abde3;
+}
+
+.jumbotron jumbotron-fluid {
+  background-color: #feca57;
+
+}
+
+button{
+  color: #1dd1a1;
+}
+
+h1 {
+  font-family: Monofett;
+   font-size: 24px;
+    font-style: normal;
+     font-variant: small-caps;
+      font-weight: 100;
+       line-height: 26.4px; }
+
+ h3 {
+   font-family: Monofett;
+    font-size: 30px;
+     font-style: normal;
+      font-variant: normal;
+       font-weight: 700;
+        line-height: 15.4px; }
+
+p {
+  font-family: Monofett;
+   font-size: 20px;
+    font-style: normal;
+     font-variant: normal;
+      font-weight: 400;
+       line-height: 20px; }
+
+blockquote  {
+  font-family: Monofett;
+   font-size: 21px;
+    font-style: normal;
+     font-variant: normal;
+      font-weight: 400;
+       line-height: 30px; }
+
+pre {
+      font-family: Monofett;
+       font-size: 13px;
+        font-style: normal;
+         font-variant: normal;
+          font-weight: 400;
+           line-height: 18.5667px; }
